@@ -26,7 +26,13 @@ body {
     display: none;
   }
 
-.music-box {
+.map-direction-box {
+    position: fixed;
+    z-index: 120;
+    bottom: 30px;
+    left: 30px;
+}
+ .music-box {
     position: fixed;
     z-index: 120;
     bottom: 30px;
